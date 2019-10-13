@@ -1,0 +1,148 @@
+Uri: http://jf.rjwl01.cn/
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\index.htm
+Content Type: text/html
+
+Uri: http://jf.rjwl01.cn/css/dedecms.css
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\css\dedecms.css
+Content Type: text/css
+
+Uri: http://jf.rjwl01.cn/css/style.css
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\css\style.css
+Content Type: text/css
+
+Uri: http://jf.rjwl01.cn/css/art_normal.css
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\css\art_normal.css
+Content Type: text/css
+
+Uri: http://jf.rjwl01.cn/css/banner.css
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\css\banner.css
+Content Type: text/css
+
+Uri: http://jf.rjwl01.cn/js/jquery-1.11.1.min.js
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\js\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: http://jf.rjwl01.cn/js/clipboard.2.0.4.min.js
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\js\clipboard.2.0.4.min.js
+Content Type: application/javascript
+
+Uri: http://jf.rjwl01.cn/js/kehu-trace.js
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\js\kehu-trace.js
+Content Type: application/javascript
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01zyirub1el0pp0lxws.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01zyirub1el0pp0lxws.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01ej5ycf1el0prwj26a.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01ej5ycf1el0prwj26a.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01d6241a1el0pu5jsyd.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01d6241a1el0pu5jsyd.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01ocjp151el0prpscyk.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01ocjp151el0prpscyk.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01jjg7as1el0pu5mhaz.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01jjg7as1el0pu5mhaz.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01o05ng51el0poybcva.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01o05ng51el0poybcva.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01jrfxlq1el0prifjd0.png
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01jrfxlq1el0prifjd0.png
+Content Type: image/png
+
+Uri: http://jf.rjwl01.cn/picture/o1cn01arkyhy1el0pnb1z5b.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\o1cn01arkyhy1el0pnb1z5b.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/picture/ea4c7e79d9284e199fadc1f92f102ebe.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\ea4c7e79d9284e199fadc1f92f102ebe.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/de63148cbdfc4aaeb96d305027ed7e7b.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\de63148cbdfc4aaeb96d305027ed7e7b.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/924e3d3af3ad4a0182d8e7b0c6e13a09.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\924e3d3af3ad4a0182d8e7b0c6e13a09.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/cef17baa53114871923dfa3d9868c08d.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\cef17baa53114871923dfa3d9868c08d.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/1a0eeb21ca16483ab11d6dc01bc5350a.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\1a0eeb21ca16483ab11d6dc01bc5350a.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/1e5105695af74e95bf3c6aaae7072c3d.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\1e5105695af74e95bf3c6aaae7072c3d.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/98902426992844d384a20a28f7522044.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\98902426992844d384a20a28f7522044.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/0b7ee66f74164f3a8bf7258e70c3a29f.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\0b7ee66f74164f3a8bf7258e70c3a29f.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/7983bf8b8b98499e98b05659d12122ec.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\7983bf8b8b98499e98b05659d12122ec.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/4aec3e753e5e4ccfb4f690e685707430.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\4aec3e753e5e4ccfb4f690e685707430.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/241198230c6547b8aa2505aa2d5c2d16.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\241198230c6547b8aa2505aa2d5c2d16.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/1a78aa62688742668530006e39bbdadd.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\1a78aa62688742668530006e39bbdadd.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/f9fe34937f684d559734dd25c3075055.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\f9fe34937f684d559734dd25c3075055.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/32bef619c8a342cc818064a9e8fe6647.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\32bef619c8a342cc818064a9e8fe6647.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/ab618c925f2444eeb3d039e25e8b3b14.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\ab618c925f2444eeb3d039e25e8b3b14.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/1031a0ccf3c9407dbbd84267b8f7f27f.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\1031a0ccf3c9407dbbd84267b8f7f27f.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/b72130c9dc20424ab4f094870f92a5f8.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\b72130c9dc20424ab4f094870f92a5f8.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/f43cdf6340ba4a71a1296dc891812063.gif
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\f43cdf6340ba4a71a1296dc891812063.gif
+Content Type: image/gif
+
+Uri: http://jf.rjwl01.cn/picture/d674ceab5ddb980a36ff87cf469274c.jpg
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\picture\d674ceab5ddb980a36ff87cf469274c.jpg
+Content Type: image/jpeg
+
+Uri: http://jf.rjwl01.cn/images/tb2d1lcoipnpufjszfkxxc4zpxa.png
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\images\tb2d1lcoipnpufjszfkxxc4zpxa.png
+Content Type: image/png
+
+Uri: http://jf.rjwl01.cn/images/foot2.png
+File Name: C:\Users\Administrator\Desktop\李明\jf.rjwl01.cn\images\foot2.png
+Content Type: image/png
+
